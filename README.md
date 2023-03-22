@@ -1,0 +1,5 @@
+1.El archivo no me abre con lo cual no puedo documentar javadoc.
+2.Pero te comento con capturas como se sacaria la carpeta javadoc
+<img src="Screenshot_1"/>
+3.Elegimos la carpeta que le vamos hacer el javadoc y le damos a finist
+<img src="Screenshot_2"/>
